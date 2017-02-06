@@ -3,7 +3,6 @@
 Demo code to support a blog article on Oracle sys_refcursor's publisghed here
 http://www.strychnine.co.uk/2017/02/oracle-ref-cursors-half-job-done/
 
-http://www.strychnine.co.uk/2017/02/hello-centred-moving-average-different-source-code/
 
 ## Code Example
 
